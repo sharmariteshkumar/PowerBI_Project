@@ -1,74 +1,131 @@
-📊 Overview
+# 📊 Sales & Profit Analysis Dashboard
 
-This project is an interactive Business Intelligence dashboard developed using Microsoft Power BI.
-The dashboard helps analyze sales, profit, quantity, categories, sub-categories, and city-wise business performance through interactive visualizations and filters.
+![Power BI](https://img.shields.io/badge/Power%20BI-Dashboard-yellow?style=for-the-badge&logo=powerbi)
+![Status](https://img.shields.io/badge/Project-Completed-success?style=for-the-badge)
+![License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)
 
-🚀 Features
-Interactive KPI Cards
-Sales & Profit Analysis
-Category-wise Profit Analysis
-Sub-Category Performance Tracking
-City-wise Profit Visualization
-Dynamic Filters/Slicers
-Business Insights Dashboard
-Clean and Professional UI Design
-📈 Dashboard Insights
-Technology category contributes the highest profit.
-Sales and quantity trends vary across different categories.
-City-wise analysis helps identify high-performing regions.
-Interactive slicers allow dynamic filtering and analysis.
-🛠 Tools & Technologies
-Microsoft Power BI
-Data Visualization
-Business Intelligence
-DAX Measures
-Data Modeling
-📂 Dataset Fields
+---
+
+## 📌 Overview
+
+This project is an interactive **Business Intelligence Dashboard** developed using **Microsoft Power BI**.  
+The dashboard helps analyze:
+
+- 📈 Sales Performance
+- 💰 Profit Analysis
+- 📦 Quantity Analysis
+- 🏷 Category & Sub-Category Insights
+- 🌍 City-wise Performance
+
+The project focuses on creating a clean and professional dashboard UI with interactive visualizations and filters.
+
+---
+
+# 🚀 Dashboard Features
+
+✅ Interactive KPI Cards  
+✅ Category-wise Profit Analysis  
+✅ Sales vs Quantity Comparison  
+✅ Sub-Category Performance Tracking  
+✅ City-wise Profit Visualization  
+✅ Dynamic Filters & Slicers  
+✅ Business Insights Dashboard  
+✅ Professional UI Design  
+
+---
+
+# 📊 Dashboard Insights
+
+- Technology category contributes the highest profit.
+- Sales and quantity trends vary across categories.
+- City-wise analysis identifies high-performing regions.
+- Interactive slicers enable dynamic filtering and analysis.
+
+---
+
+# 🛠 Tools & Technologies
+
+| Tool | Purpose |
+|---|---|
+| Microsoft Power BI | Dashboard Development |
+| DAX | Calculations & Measures |
+| Data Modeling | Relationship Management |
+| Data Visualization | Business Insights |
+
+---
+
+# 📂 Dataset Fields
 
 The dataset includes:
 
-Sales
-Profit
-Quantity
-Category
-Sub-Category
-City
-Order Date
-Region
-Ship Mode
-📊 Visualizations Used
-KPI Cards
-Bar Charts
-Donut Charts
-Gauge Chart
-Area Chart
-Column Charts
-Map Visualization
-Slicers
-🎯 Project Objective
+- Sales
+- Profit
+- Quantity
+- Category
+- Sub-Category
+- City
+- Order Date
+- Region
+- Ship Mode
 
-The goal of this project is to:
+---
 
-Analyze business performance
-Identify profitable categories
-Compare sales and quantity trends
-Visualize city-wise performance
-Build a professional and interactive dashboard
-📸 Dashboard Preview
+# 📈 Visualizations Used
 
-Add dashboard screenshot here
+| Visualization | Purpose |
+|---|---|
+| KPI Cards | Key Metrics |
+| Bar Charts | Category Comparison |
+| Donut Charts | Sub-Category Distribution |
+| Gauge Chart | Performance Tracking |
+| Area Chart | Trend Analysis |
+| Column Charts | Sales Comparison |
+| Map Visualization | City-wise Profit |
+| Slicers | Dynamic Filtering |
 
-🔥 Future Improvements
-Add advanced DAX calculations
-Improve dashboard responsiveness
-Add forecasting and trend analysis
-Implement dark theme dashboard
-Connect real-time datasets
-👨‍💻 Author
+---
 
-Ritesh Sharma
+# 🎯 Project Objective
 
-⭐ GitHub Topics
+The objective of this project is to:
+
+- Analyze business performance
+- Identify profitable categories
+- Compare sales and quantity trends
+- Visualize city-wise performance
+- Build a professional BI dashboard
+
+---
+
+# 🖼 Dashboard Preview
+
+## Main Dashboard
+
+![Dashboard Preview](./dashboard.png)
+
+---
+
+# 🔥 Future Improvements
+
+- Add advanced DAX calculations
+- Improve dashboard responsiveness
+- Add forecasting visuals
+- Implement dark mode dashboard
+- Connect real-time datasets
+
+---
+
+# 👨‍💻 Author
+
+## Ritesh Sharma
+
+- GitHub: [@sharmaritesh4943](https://github.com/sharmaritesh4943)
+
+---
+
+# ⭐ GitHub Topics
+
+```txt
 powerbi
 dashboard
 business-intelligence
@@ -78,3 +135,10 @@ sales-dashboard
 profit-analysis
 powerbi-dashboard
 data-analysis
+```
+
+---
+
+# 📜 License
+
+This project is licensed under the MIT License.
