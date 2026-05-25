@@ -101,7 +101,7 @@ The objective of this project is to:
 
 ## Main Dashboard
 
-![Dashboard Preview](./dashboard.png)
+![Dashboard Preview](.Images/Screenshot 2026-05-25 151447.png)
 
 ---
 
@@ -119,7 +119,7 @@ The objective of this project is to:
 
 ## Ritesh Sharma
 
-- GitHub: [@sharmaritesh4943](https://github.com/sharmaritesh4943)
+- GitHub: [@sharmaritesh4943](https://github.com/sharmariteshkumar)
 
 ---
 
